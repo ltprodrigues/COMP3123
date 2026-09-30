@@ -1,0 +1,22 @@
+{
+  "name": "101559381_comp3123-exec04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  
+  "author": "Leticia Rodrigues",
+  "license": "ISC",
+  "description": "Running a web serve using Express",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
